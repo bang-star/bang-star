@@ -20,5 +20,5 @@
 
 <br />
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang-star&layout=compact)](https://github.com/bang-star/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99dlthdbs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
