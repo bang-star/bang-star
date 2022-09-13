@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/linux-F9D71C?style=flat-square&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white"/>
   </div>
-  
+
+<br />
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang-star&layout=compact)](https://github.com/bang-star/github-readme-stats)
 </div>
