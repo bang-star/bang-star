@@ -29,7 +29,7 @@
   <p align="center">
     <a href="https://to-be-a-artist.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff9500?style=flat-square&logo=Tistory&logoColor=white&link=https://to-be-a-artist.tistory.com/"/></a>&nbsp
     
-    <a href="https://github.com/99dlthdbs"><img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white&link=https://github.com/99dlthdbs"/></a>&nbsp
+    <a href="https://github.com/99dlthdbs/"><img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white&link=https://github.com/99dlthdbs/"/></a>&nbsp
   </p>
 <br>
     
