@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-F9D71C?style=flat-square&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   </div>
 
 <br />
@@ -28,7 +28,7 @@
 <h3 align="center">  Me  </h3>
   <p align="center">
     <a href="https://to-be-a-artist.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff9500?style=flat-square&logo=Tistory&logoColor=white&link=https://to-be-a-artist.tistory.com/"/></a>&nbsp
-    
+     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
     <a href="https://github.com/99dlthdbs/"><img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white&link=https://github.com/99dlthdbs/"/></a>&nbsp
   </p>
 <br>
