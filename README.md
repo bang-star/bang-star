@@ -2,13 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:87ceeb,100:87ceeb&fontColor=fff&height=300&section=header&text=bang-star&fontSize=90&animation=fadeIn&fontAlignY=42)
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bang-star&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+
 <div align=center>
-  
-  <br />
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%bang-star%2Fhit-counter&count_bg=%23FF9A9E&title_bg=%23FF9A9E&icon=github.svg&icon_color=%23FAD0C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  <br />
-  
   <h4>👉 Tech Stack 👈<h4>
     <p>Techs that I'm confident</p>
     <p>This github is used for studying.</p>
@@ -25,6 +24,14 @@
   </div>
 
 <br />
+    
+<h3 align="center">  Me  </h3>
+  <p align="center">
+    <a href="https://to-be-a-artist.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff9500?style=flat-square&logo=Tistory&logoColor=white&link=https://to-be-a-artist.tistory.com/"/></a>&nbsp
+    
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-F9D71C?style=flat-square&logo=Github&logoColor=white&link=https://github.com/"/></a>&nbsp
+  </p>
+<br>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang-star&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
