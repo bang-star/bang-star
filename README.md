@@ -30,6 +30,6 @@
     <a href="https://to-be-a-artist.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff9500?style=flat-square&logo=Tistory&logoColor=white&link=https://to-be-a-artist.tistory.com/"/></a>&nbsp<a href="https://github.com/bangseongmin/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bangseongmin/"/></a>&nbsp
   </p>
 <br>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang-star&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang-star&show_icons=true&theme=dracula)
 </div>
